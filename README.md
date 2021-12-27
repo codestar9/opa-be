@@ -6,7 +6,6 @@
  - Uses [yarn](https://yarnpkg.com)
  - Express + MongoDB ([Mongoose](http://mongoosejs.com/))
  - Consistent coding styles with [editorconfig](http://editorconfig.org)
- - [Docker](https://www.docker.com/) support
  - Uses [helmet](https://github.com/helmetjs/helmet) to set some HTTP headers for security
  - Load environment variables from .env files with [dotenv](https://github.com/rolodato/dotenv-safe)
  - Request validation with [joi](https://github.com/hapijs/joi)
@@ -23,7 +22,7 @@
 
 ## Requirements
 
- - [Node v7.6+](https://nodejs.org/en/download/current/) or [Docker](https://www.docker.com/)
+ - [Node v7.6+](https://nodejs.org/en/download/current/)
  - [Yarn](https://yarnpkg.com/en/docs/install)
 
 ## Getting Started
